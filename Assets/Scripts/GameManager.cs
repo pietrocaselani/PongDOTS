@@ -9,7 +9,7 @@ public sealed class GameManager : MonoBehaviour
 {
     private static GameManager Instance;
 
-    private static readonly int MaxScore = 6;
+    private static readonly int MaxScore = 3;
 
     public GUISkin layout;
 
